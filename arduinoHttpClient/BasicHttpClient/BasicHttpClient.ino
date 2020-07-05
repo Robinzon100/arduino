@@ -10,9 +10,9 @@
 
 ESP8266WiFiMulti WiFiMulti;
 
-const char* wifi_name     = "ukrainka";
-const char* wifi_password = "gabrieli04";
-const char* api_http_url = "http://robled.herokuapp.com/state";
+const char* wifi_name = "HAL_9000";
+const char* wifi_password = "20474676";
+const char* api_http_url = "http://pushmybuttons.herokuapp.com/state";
 
 
 
